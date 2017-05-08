@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deepak Karki | Blog - Articles</title>
+    <description>A personal blog on tech, culture, education, and HCI.</description>
+    <link>
+    http://deepakkarki.github.io/blog/</link>
+    
+      
+      <item>
+        <title>Test - Post capabilities</title>
+        
+          <description>&lt;p&gt;This is just an &lt;em&gt;ipsis verbis&lt;/em&gt; copy of the first example running on the &lt;a href=&quot;http://demo.ghost.io&quot;&gt;Ghost Demo&lt;/a&gt;. This shows how you can use html styling to achieve your hopes.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 07 May 2017 00:00:00 +0530</pubDate>
+        <link>
+        http://deepakkarki.github.io/blog//2017/a-full-and-comprehensive-style-test</link>
+        <guid isPermaLink="true">http://deepakkarki.github.io/blog//2017/a-full-and-comprehensive-style-test</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>The Purpose of Education</title>
+        
+          <description>&lt;p&gt;As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+        <link>
+        http://deepakkarki.github.io/blog//2017/the-purpose-of-education</link>
+        <guid isPermaLink="true">http://deepakkarki.github.io/blog//2017/the-purpose-of-education</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>The Businessman &amp; the fisherman</title>
+        
+          <description>&lt;p&gt;An American businessman took a vacation to a small coastal Mexican village on doctor’s orders. Unable to sleep after an urgent phone call from the office the first morning, he walked out to the pier to clear his head. A small boat with just one fisherman had docked, and inside the boat were several large yellowfin tuna. The American complimented the Mexican on the quality of his fish.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 12 Aug 2014 15:48:00 +0530</pubDate>
+        <link>
+        http://deepakkarki.github.io/blog//2014/the-businessman-and-fisherman</link>
+        <guid isPermaLink="true">http://deepakkarki.github.io/blog//2014/the-businessman-and-fisherman</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
